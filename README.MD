@@ -2,8 +2,9 @@
 ## Informasi Dosen
 Nama Dosen : Bambang Riono Arsad, S.Kom., MMSI
 ## Mahasiswa 
-Nama : Hany Nadya Fairuz
-NPM : 4523210128
+- git add README.MD
+git commit -m "Update README"Nama : Hany Nadya Fairuz
+- NPM : 4523210128
 ## Rekap Praktikum Pertemuan 1 :
 1. Instalasi GitHub
 2. Konfigurasi Awal
